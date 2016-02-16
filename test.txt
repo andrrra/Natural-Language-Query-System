@@ -1,0 +1,8 @@
+fish|NN fish|NNS
+police|NN police|NNS
+blah|NN blah|NNS
+sheep|NN sheep|NNS sheep|NN
+buffalo|NN buffalos|NNS
+holiday|NN holidaymaker|NNS
+church|NN
+table|NN
